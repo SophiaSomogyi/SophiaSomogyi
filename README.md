@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am currently taking Mr. J's ICS3U ✨
+- I am currently taking Mr. J's ICS3U ✨
+- Grade 11 Student 🌱
+- ASH 😄 
 
 <!--
 **SophiaSomogyi/SophiaSomogyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
